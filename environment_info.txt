@@ -1,0 +1,18 @@
+Name: Python 
+Version: 3.13.2
+---
+Name: qiskit
+Version: 1.2.4
+Summary: An open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
+---
+Name: qiskit-aer
+Version: 0.17.1
+Summary: Aer - High performance simulators for Qiskit
+---
+Name: networkx
+Version: 3.5
+Summary: Python package for creating and manipulating graphs and networks
+---
+Name: matplotlib
+Version: 3.10.8
+Summary: Python plotting package
