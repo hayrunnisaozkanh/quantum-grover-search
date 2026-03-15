@@ -1,6 +1,3 @@
-# quantum-grover-search
-Grover algorithm simulation using Qiskit
-
 # Quantum Grover Search Algorithm Simulation
 
 ## About
